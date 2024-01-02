@@ -1,6 +1,6 @@
-# secret_santa_randomizer
+# secret_santa
 
-An interactive, fun way to spice up your Secret Santa lists.
+A simplified way to make your Secret Santa lists.
 
 ## Description
 
@@ -10,7 +10,7 @@ A hybrid sorting algorithm is used to display the list of Secret Santa participa
 
 ## Getting Started
 
-`secret_santa_randomizer` requires Python 3.11 and pip.
+`secret_santa` requires Python 3.11 and pip.
 
 Clone the repo and
 
